@@ -11,4 +11,9 @@ Due to lack of Nuxt Pro license (249$) I can't make a deploy of this application
 ![Снимок экрана 2024-04-16 193028](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/224cfe65-6af2-44aa-a38a-57bef9732433)
 ![Снимок экрана 2024-04-16 192944](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/dcb31b1f-e73d-481e-ad44-c0ffb77e92f4)
 ![Снимок экрана 2024-04-16 192907](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/ceb5af0c-20d4-4d0c-b1a6-afa17503f70a)
+![Снимок экрана 2024-05-02 200454](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/b66bc461-b83a-4b29-9f8d-adfa7d943421)
+![Снимок экрана 2024-05-02 200359](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/1ff8e604-e6eb-4698-8f76-556cabab1880)
+![Снимок экрана 2024-05-02 200252](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/fd2cad50-1300-4ae8-8716-d8b7dcb5d972)
+![Снимок экрана 2024-05-02 200142](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/ac8a56c4-ea21-40d3-884f-b8ac55f10cc4)
+
 
