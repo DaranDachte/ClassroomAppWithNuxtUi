@@ -1,75 +1,13 @@
-# Nuxt 3 Minimal Starter
+I developed this project with Nuxt3 framework, using Nuxt Ui and Nuxt Ui pro libraries. 
+Since only the frontend is presented here, and there is no access to the backend, some functions are presented only as html elements (transition from one page to another, statistics page, selection in some inputs). 
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Due to lack of Nuxt Pro license (249$) I can't make a deploy of this application.  But you can see the code and appearance in this repository. 
+![Снимок экрана 2024-04-16 193150](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/c3094646-85e0-4a9a-aaca-379b6b9a7b3d)
+![Снимок экрана 2024-04-16 193100](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/490e2cd2-6c3c-4a95-8ce6-e3ffdbc7388e)
+![Снимок экрана 2024-04-16 193028](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/224cfe65-6af2-44aa-a38a-57bef9732433)
+![Снимок экрана 2024-04-16 192944](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/dcb31b1f-e73d-481e-ad44-c0ffb77e92f4)
+![Снимок экрана 2024-04-16 192907](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/ceb5af0c-20d4-4d0c-b1a6-afa17503f70a)
+![Снимок экрана 2024-04-16 192822](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/835785b3-0c8b-407c-a5b1-5a100c309796)
+![Снимок экрана 2024-04-16 192710](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/5a873007-9789-4b60-8d54-bbaa7c5794c5)
+![Снимок экрана 2024-04-16 192635](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/cef51dcf-aba6-4817-8aa5-914d61c9c9b8)
+![Снимок экрана 2024-04-16 192543](https://github.com/DaranDachte/ClassroomAppWithNuxtUi/assets/96144068/36e84d1f-2015-4837-8d2d-020408ecf7cb)
